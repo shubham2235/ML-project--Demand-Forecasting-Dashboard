@@ -6,7 +6,7 @@ A full-stack data science project that leverages historical sales, product, and 
 
 ## 🚀 Live Demo
 
-🔗 [Click here to view the live Streamlit app](https://<your-app-link>.streamlit.app)
+🔗 [Click here to view the live Streamlit app](https://ml-project--demand-forecasting-dashboard-ea94pdhdwmun4yzi5gac9.streamlit.app/)
 
 ---
 
